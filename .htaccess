@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Input your ID and Password."
-AuthUserFile /home/marumaruda.github.io/bird-cafe/.htpasswd
-require valid-user
